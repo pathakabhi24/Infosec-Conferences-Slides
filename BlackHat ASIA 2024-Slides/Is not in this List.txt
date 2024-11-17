@@ -1,0 +1,34 @@
+David Koh-Keynote - Securing Our Cyberspace Together
+https://www.blackhat.com/asia-24/briefings/schedule/index.html#keynote---securing-our-cyberspace-together-38921
+ 
+
+Daniel Jary-Immoral Fiber: Unlocking & Discovering New Offensive Capabilities of Fibers
+https://www.blackhat.com/asia-24/briefings/schedule/index.html#immoral-fiber-unlocking--discovering-new-offensive-capabilities-of-fibers-37947
+
+
+Ty Miller & Shanna Daly & Mika Devonshire & Marina Krotofil & Anthony Cheuk Tung Lai & Neil (Grifter) Wyler & Fyodor Yarochkin & Vitaly Kamluk-Emerging Frontiers: Insights from the Black Hat Asia Review Board
+https://www.blackhat.com/asia-24/briefings/schedule/index.html#emerging-frontiers-insights-from-the-black-hat-asia-review-board-38925
+
+
+Jeff Moss & Ruimin He-Fireside Chat: Jeff Moss and Ruimin He
+https://www.blackhat.com/asia-24/briefings/schedule/index.html#fireside-chat-jeff-moss-and-ruimin-he-39343
+
+
+Fotis Chantzis & Paul McMillan-LLMs at the Core: From Attention to Action in Scaling Security Teams
+https://www.blackhat.com/asia-24/briefings/schedule/index.html#llms-at-the-core-from-attention-to-action-in-scaling-security-teams-37909
+
+
+Shmuel Cohen-The Dark Side of EDR: Repurpose EDR as an Offensive Tool
+https://www.blackhat.com/asia-24/briefings/schedule/index.html#the-dark-side-of-edr-repurpose-edr-as-an-offensive-tool-37846
+
+
+Gertjan Franken & Tom Van Goethem-Back to the Roots: Finding the Origin of CSP Security Bugs
+https://www.blackhat.com/asia-24/briefings/schedule/index.html#back-to-the-roots-finding-the-origin-of-csp-security-bugs-36829
+
+
+Neil (Grifter) Wyler & Bart Stump-The Black Hat Asia Network Operations Center (NOC) Report
+https://www.blackhat.com/asia-24/briefings/schedule/index.html#the-black-hat-asia-network-operations-center-noc-report-38156
+
+
+Vitaly Kamluk & Anant Shrivastava & Pamela O'Shea & Ty Miller & Jeff Moss-Locknote: Conclusions and Key Takeaways
+https://www.blackhat.com/asia-24/briefings/schedule/index.html#locknote-conclusions-and-key-takeaways-39514
